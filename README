@@ -1,0 +1,22 @@
+****************************************
+Basic Line Editor using Linked Lists   
+By Halee Corbin                        
+for COP3530 with Professor Cheryl Resch
+University of Florida Fall 2018        
+****************************************
+
+Usage:
+
+insertEnd "text"
+insert index "text"
+delete index
+edit index "text"
+print
+search "text"
+quit
+
+*replace index with integer value of desired line index
+**put text in quotes
+
+Note:
+Program clears all stepik tests
